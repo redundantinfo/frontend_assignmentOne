@@ -4,7 +4,9 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <title>Bookstore</title>
 </head>
 <body>
   <nav>
@@ -19,10 +21,55 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
       Ducimus cum ipsam modi esse maiores eligendi? Nesciunt, at ipsa ducimus dolorem modi nulla vero quidem iste vel animi dolore blanditiis quod.
     </p>
+    <div>
+      <label for="category-select">Filter by category:</label>
+      <select id="category-select">
+        <option value="">All</option>
+        <option value="fiction">Fiction</option>
+        <option value="non-fiction">Non-Fiction</option>
+      </select>
+    </div>
+    
+    <div>
+      <label for="author-select">Filter by author:</label>
+      <select id="author-select">
+        <option value="">All</option>
+        <option value="jane-doe">Jane Doe</option>
+        <option value="john-doe">John Doe</option>
+      </select>
+    </div>
+    
+    <div>
+      <label for="price-select">Filter by price:</label>
+      <select id="price-select">
+        <option value="">All</option>
+        <option value="0-9.99">$0 - $9.99</option>
+        <option value="10-19.99">$10 - $19.99</option>
+        <option value="20-29.99">$20 - $29.99</option>
+      </select>
+    </div>
+    
+    <div>
+      <label for="sort-select">Sort by:</label>
+      <select id="sort-select">
+        <option value="">All</option>
+        <option value="title-asc">Title (Ascending)</option>
+        <option value="title-desc">Title (Descending)</option>
+        <option value="price-asc">Price (Ascending)</option>
+        <option value="price-desc">Price (Descending)</option>
+        <option value="author-asc">Author (Ascending)</option>
+        <option value="author-desc">Author (Descending)</option>
+      </select>
+    </div>
+    
   </main>
 <footer>
   <p>© 2023 - Placeholder</p>
 </footer>
+<component src="/app" />
+<script type="module" src="/js/main.js"></script>
+</body>
+</html>
 <!--
 Technologies to use:
 HTML, CSS
@@ -82,6 +129,3 @@ All thee grade 3 and 4 requirements
 Your descriptions of Responsive Design With Bootstrap, HTML, CSS and JavaScript should be easy to understand, not contain any false information and give a good introduction to the subject.
 The site should be easy to view and have a good UX on all screen sizes.
 -->
-
-</body>
-</html>
