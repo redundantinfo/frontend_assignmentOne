@@ -1,12 +1,18 @@
 // HTML-component + SPA/routing example in Vanilla JS
 // © ironboy, Node Hill AB, 2023
 
+// added some conditionals for running functions to line 99-104, also changed the default page to /start on the last line function arg.
+
 // import the main scss file: the scss will compile to css
 // and hot reload on changes thanks to Vite
 import '../scss/style.scss';
 
 // import bootstrap JS part
 import * as bootstrap from 'bootstrap';
+
+// my own imports
+import { loadStorePage } from './store';
+import { getCart } from './cart.js';
 
 // helper: grab a DOM element
 const $ = el => document.querySelector(el);
@@ -92,6 +98,17 @@ async function loadPage(src = location.pathname) {
   pageCache[src] = html;
   $('main').innerHTML = html;
   // run componentMount (mount new components if any)
+  // if we are on the /store or /cart page, we also want to render the products
+  if (src === '/html/pages/store.html') {
+    loadStorePage();
+  }
+  if (src === '/html/pages/cart.html') {
+    getCart();
+  }
+  if (src === '/html/pages/start.html') {
+    $('.collapse').collapse();
+  }
+
   componentMount();
   // set active link in navbar
   setActiveLinkInNavbar();
@@ -116,4 +133,5 @@ function setActiveLinkInNavbar() {
 
 // initially, on hard load/reload:
 // mount components and load the page
-componentMount().then(x => loadPage());
+// not sure how to fix the page going blank when reloading, so I decided to use /start as the default page
+componentMount().then(x => loadPage('/start'));

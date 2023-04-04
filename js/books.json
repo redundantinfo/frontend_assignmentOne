@@ -1,0 +1,187 @@
+[
+  {
+  "id": 1,
+  "image": "",
+  "title": "Responsive design with Bootstrap",
+  "author": "Author",
+  "category": "UX",
+  "description": "User experience (UX) is a crucial aspect of designing digital products and services. It refers to the overall experience that a user has when interacting with a product or service, such as a website or mobile app. Good UX design is all about creating a positive, seamless, and intuitive experience that meets the needs and expectations of the user. The process of UX design begins with user research, where designers gather information about their target audience, their behaviors, needs, and pain points. This information is then used to create user personas, which represent the typical users of the product or service. These personas help designers to understand the motivations and goals of the users, and how the product can best serve their needs.Once the user research is complete, the UX design process moves on to creating wireframes, which are basic blueprints of the product's layout and functionality. Wireframes allow designers to test out different design concepts and user flows without committing to a specific design direction. After wireframes, the UX designer moves on to creating high-fidelity prototypes, which are more detailed and visually appealing representations of the final product. These prototypes are used to test the product's functionality and usability with real users, and to gather feedback and make necessary changes. Throughout the UX design process, designers must always keep the user at the forefront of their minds. This means designing for accessibility, ensuring that the product is easy to use and navigate, and providing clear and concise information at every step of the user journey. Good UX design has numerous benefits, including increased user engagement and retention, improved brand loyalty, and increased sales and revenue. By creating a positive and intuitive user experience, designers can build long-lasting relationships with their users and create products that truly meet their needs.",
+  "price": 100
+  },
+  {
+  "id": 2,
+  "image": "",
+  "title": "asd1",
+  "author": "Author",
+  "category": "UX",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 100
+  },
+  {
+  "id": 3,
+  "image": "",
+  "title": "asd2",
+  "author": "Author",
+  "category": "UX",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 100
+  },
+  {
+  "id": 4,
+  "image": "",
+  "title": "asd3",
+  "author": "Author",
+  "category": "UX",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 100
+  },
+  {
+  "id": 5,
+  "image": "",
+  "title": "asd4",
+  "author": "Author",
+  "category": "UX",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 100
+  },
+
+  {
+  "id": 6,
+  "image": "",
+  "title": "HTML - an introduction",
+  "author": "Author",
+  "category": "HTML",
+  "description": "HTML stands for Hypertext Markup Language and is a fundamental component of the World Wide Web. It is a markup language used to create and structure the content of web pages. HTML provides a set of tags and attributes that allow developers to define the structure, layout, and content of a web page. Web pages are composed of HTML elements, which are surrounded by opening and closing tags. Each tag describes the type of element it contains, such as a paragraph, heading, image, or link. HTML elements can also have attributes, which provide additional information about the element, such as its size, color, or location. The structure of an HTML document includes a head section, which contains information about the page, such as the title, keywords, and stylesheets. The body section contains the actual content of the page, which is made up of HTML elements. HTML is a flexible language that can be used in conjunction with other web technologies such as CSS and JavaScript. CSS is used to style and layout web pages, while JavaScript is used to add interactivity and dynamic behavior to web pages. One of the benefits of HTML is that it is a standardized language that can be interpreted by any web browser, making it accessible to a wide range of users. HTML is also constantly evolving, with new versions and features being added regularly to keep up with the changing needs of the web. In summary, HTML is a markup language that is used to structure and define the content of web pages. It provides a set of tags and attributes that allow developers to create and format web pages in a consistent and standardized way. By combining HTML with other web technologies, developers can create rich and engaging web experiences for users.",
+  "price": 200
+  },
+  {
+  "id": 7,
+  "image": "",
+  "title": "qwer1",
+  "author": "Author",
+  "category": "HTML",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 200
+  },
+  {
+  "id": 8,
+  "image": "",
+  "title": "qwer2",
+  "author": "Author",
+  "category": "HTML",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 200
+  },
+  {
+  "id": 9,
+  "image": "",
+  "title": "qwer3",
+  "author": "Author",
+  "category": "HTML",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 200
+  },
+  {
+  "id": 10,
+  "image": "",
+  "title": "qwer4",
+  "author": "Author",
+  "category": "HTML",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 200
+  },
+
+
+
+  {
+  "id": 11,
+  "image": "",
+  "title": "CSS - an introduction",
+  "author": "Author",
+  "category": "CSS",
+  "description": "CSS, or Cascading Style Sheets, is a style sheet language used for describing the presentation and layout of web pages. CSS allows developers to separate the content of a web page from its presentation, making it easier to maintain and update the design of a website. CSS works by associating styles with HTML elements using selectors. Selectors can target individual elements or groups of elements, allowing developers to apply specific styles to different parts of a web page. Styles are defined using declarations, which consist of a property and a value. Properties define the aspect of an element's appearance that is being styled, such as its color, font size, or margin, while values specify the specific style to be applied to that property. CSS also provides a range of layout and positioning tools, which can be used to control the placement and arrangement of elements on a web page. For example, developers can use CSS to create responsive designs that adapt to different screen sizes, or to create complex grid layouts that make the most of available space. One of the key advantages of CSS is that it allows developers to create consistent and standardized designs across a website or web application. By separating the content of a page from its presentation, developers can make changes to the design of a site without affecting the underlying content. CSS is also highly flexible and customizable, with a wide range of options for creating unique and visually appealing designs. In addition, CSS is constantly evolving, with new features and capabilities being added regularly to keep up with the changing needs of web developers. In summary, CSS is a style sheet language used for describing the presentation and layout of web pages. It allows developers to separate the content of a web page from its presentation, making it easier to maintain and update the design of a website. CSS provides a wide range of layout and positioning tools, and is highly customizable and flexible, making it a powerful tool for creating unique and visually appealing web designs.",
+  "price": 300
+  },
+  {
+  "id": 12,
+  "image": "",
+  "title": "zxcv1",
+  "author": "Author",
+  "category": "CSS",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 300
+  },
+  {
+  "id": 13,
+  "image": "",
+  "title": "zxcv2",
+  "author": "Author",
+  "category": "CSS",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 300
+  },
+  {
+  "id": 14,
+  "image": "",
+  "title": "zxcv3",
+  "author": "Author",
+  "category": "CSS",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 300
+  },
+  {
+  "id": 15,
+  "image": "",
+  "title": "zxcv4",
+  "author": "Author",
+  "category": "CSS",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 300
+  },
+  {
+  "id": 16,
+  "image": "",
+  "title": "JavaScript - an introduction",
+  "author": "Author",
+  "category": "JavaScript",
+  "description": "this actually needs to be a description of the book (in around 300 words)",
+  "price": 300
+  },
+  {
+  "id": 17,
+  "image": "",
+  "title": "1230",
+  "author": "Author",
+  "category": "JavaScript",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 300
+  },
+  {
+  "id": 18,
+  "image": "",
+  "title": "1231",
+  "author": "Author",
+  "category": "JavaScript",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 300
+  },
+  {
+  "id": 19,
+  "image": "",
+  "title": "1232",
+  "author": "Author",
+  "category": "JavaScript",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 300
+  },
+  {
+  "id": 20,
+  "image": "1234",
+  "title": "JavaScript",
+  "author": "Author",
+  "category": "JavaScript",
+  "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
+  "price": 300
+  }
+]
+
