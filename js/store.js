@@ -1,18 +1,23 @@
 export async function loadStorePage() {
   console.log('store page loaded');
   let books = await (await fetch('/js/books.json')).json();
+  // using the cart button to set description to undefined, since the description string is too long
   let html = books.map(b => `
     <div class="col-150 col-md-60 col-lg-40" id="product-container">
       <div class="card">
-        <img src="${b.image}" class="card-img-right" alt="${b.title}">
+        <div id="card-img-container" class="card-img-container">
+          <img src="${b.image}" class="card-img-right" alt="${b.title}">
+        </div>
         <div class="card-body">
           <h5 class="card-title">${b.title}</h5>
           <p class="card-author">${b.author}</p>
-          <button class="accordion">Read more</button>
+          <button class="accordion">Description</button>
           <div class="panel">
             <p class="card-desc">${b.description}</p>
           </div>
-          <a href="#" data-book='${JSON.stringify(b)}' class="btn btn-primary add-to-cart-btn" id="btn-add-to-cart">Add to cart</a>
+          <a href="#" data-book='${JSON.stringify({
+            ...b, description: undefined,
+          })}' class="btn btn-primary add-to-cart-btn" id="btn-add-to-cart">Add to cart</a>
           <p class="card-price">${b.price} Dogecoin</p> 
         </div>
       </div>
@@ -41,7 +46,9 @@ export async function loadStorePage() {
   addToCartBtns.forEach(btn => {
     btn.addEventListener('click', (event) => {
       event.preventDefault();
-      const book = JSON.parse(btn.dataset.book);
+      const bookData = btn.dataset.book;
+      console.log('Parsing book data:', bookData);
+      const book = JSON.parse(bookData);
       addToCart(book);
     });
   });

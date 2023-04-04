@@ -1,7 +1,7 @@
 [
   {
   "id": 1,
-  "image": "",
+  "image": "../img/1.jpg",
   "title": "Responsive design with Bootstrap",
   "author": "Author",
   "category": "UX",
@@ -10,7 +10,7 @@
   },
   {
   "id": 2,
-  "image": "",
+  "image": "../img/2.jpg",
   "title": "asd1",
   "author": "Author",
   "category": "UX",
@@ -19,7 +19,7 @@
   },
   {
   "id": 3,
-  "image": "",
+  "image": "../img/3.jpg",
   "title": "asd2",
   "author": "Author",
   "category": "UX",
@@ -28,7 +28,7 @@
   },
   {
   "id": 4,
-  "image": "",
+  "image": "../img/4.jpg",
   "title": "asd3",
   "author": "Author",
   "category": "UX",
@@ -37,7 +37,7 @@
   },
   {
   "id": 5,
-  "image": "",
+  "image": "../img/5.jpg",
   "title": "asd4",
   "author": "Author",
   "category": "UX",
@@ -47,7 +47,7 @@
 
   {
   "id": 6,
-  "image": "",
+  "image": "../img/6.jpg",
   "title": "HTML - an introduction",
   "author": "Author",
   "category": "HTML",
@@ -56,7 +56,7 @@
   },
   {
   "id": 7,
-  "image": "",
+  "image": "../img/7.jpg",
   "title": "qwer1",
   "author": "Author",
   "category": "HTML",
@@ -65,7 +65,7 @@
   },
   {
   "id": 8,
-  "image": "",
+  "image": "../img/8.jpg",
   "title": "qwer2",
   "author": "Author",
   "category": "HTML",
@@ -74,7 +74,7 @@
   },
   {
   "id": 9,
-  "image": "",
+  "image": "../img/9.jpg",
   "title": "qwer3",
   "author": "Author",
   "category": "HTML",
@@ -83,7 +83,7 @@
   },
   {
   "id": 10,
-  "image": "",
+  "image": "../img/10.jpg",
   "title": "qwer4",
   "author": "Author",
   "category": "HTML",
@@ -95,7 +95,7 @@
 
   {
   "id": 11,
-  "image": "",
+  "image": "../img/11.jpg",
   "title": "CSS - an introduction",
   "author": "Author",
   "category": "CSS",
@@ -104,7 +104,7 @@
   },
   {
   "id": 12,
-  "image": "",
+  "image": "../img/12.jpg",
   "title": "zxcv1",
   "author": "Author",
   "category": "CSS",
@@ -113,7 +113,7 @@
   },
   {
   "id": 13,
-  "image": "",
+  "image": "../img/13.jpg",
   "title": "zxcv2",
   "author": "Author",
   "category": "CSS",
@@ -122,7 +122,7 @@
   },
   {
   "id": 14,
-  "image": "",
+  "image": "../img/14.jpg",
   "title": "zxcv3",
   "author": "Author",
   "category": "CSS",
@@ -131,7 +131,7 @@
   },
   {
   "id": 15,
-  "image": "",
+  "image": "../img/15.jpg",
   "title": "zxcv4",
   "author": "Author",
   "category": "CSS",
@@ -140,7 +140,7 @@
   },
   {
   "id": 16,
-  "image": "",
+  "image": "../img/16.jpg",
   "title": "JavaScript - an introduction",
   "author": "Author",
   "category": "JavaScript",
@@ -149,7 +149,7 @@
   },
   {
   "id": 17,
-  "image": "",
+  "image": "../img/17.jpg",
   "title": "1230",
   "author": "Author",
   "category": "JavaScript",
@@ -158,7 +158,7 @@
   },
   {
   "id": 18,
-  "image": "",
+  "image": "../img/18.jpg",
   "title": "1231",
   "author": "Author",
   "category": "JavaScript",
@@ -167,7 +167,7 @@
   },
   {
   "id": 19,
-  "image": "",
+  "image": "../img/19.jpg",
   "title": "1232",
   "author": "Author",
   "category": "JavaScript",
@@ -176,8 +176,8 @@
   },
   {
   "id": 20,
-  "image": "1234",
-  "title": "JavaScript",
+  "image": "../img/20.jpg",
+  "title": "1233",
   "author": "Author",
   "category": "JavaScript",
   "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed non risus. suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. cras elementum ultrices diam. maecenas ligula massa, varius a, semper congue, euismod non, mi. proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. ",
